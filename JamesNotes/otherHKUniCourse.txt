@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 https://aifin-hkust.github.io/
 
 this course has full set of slide pack
+=======
+https://aifin-hkust.github.io/
+>>>>>>> 675592a2e69a8600ab25cb82c85ee739cddf42e5
